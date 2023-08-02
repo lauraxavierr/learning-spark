@@ -31,3 +31,5 @@ Sugiro, principalmente, a leitura destes:
 *PySpark Cookbook* https://www.oreilly.com/library/view/pyspark-cookbook/9781788835367/
 *Learning PySpark* https://www.oreilly.com/library/view/learning-pyspark/9781786463708/
 *Applied Data Science Using PySpark* https://www.oreilly.com/library/view/applied-data-science/9781484265000/
+
+*SparkSession* https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.SparkSession.html
